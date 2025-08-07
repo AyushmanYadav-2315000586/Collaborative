@@ -8,6 +8,7 @@ public class Add {
         System.out.println("Adding some new Features in Addition Function");
         System.out.println("Changes by me Aush in line no. 9");
         sc.close();
+        System.out.println("Don't add any features everyone");
     }
     static int add(int a, int b) {
         return a + b;

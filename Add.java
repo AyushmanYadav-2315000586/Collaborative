@@ -8,5 +8,6 @@ public class Add {
         System.out.println("Adding some new Features in Addition Function");
         sc.close();
         System.out.println("Don't add any features everyone");
+        int c=50;
     }
 }

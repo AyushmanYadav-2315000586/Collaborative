@@ -10,6 +10,7 @@ public class Add {
         System.out.println("Changes by me Aush in line no. 9");
         sc.close();
         System.out.println("Don't add any features everyone");
+        int c=50;
     }
     static int add(int a, int b) {
         return a + b;

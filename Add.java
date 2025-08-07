@@ -7,5 +7,6 @@ public class Add {
         System.out.println("Addition of " + a + " and " + b + " is : " + (a+b));
         System.out.println("Adding some new Features in Addition Function");
         sc.close();
+        System.out.println("Don't add any features everyone");
     }
 }
